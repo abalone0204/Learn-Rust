@@ -1,0 +1,6 @@
+[submodule "projects/common_features"]
+	path = projects/common_features
+	url = https://github.com/abalone0204/Common-Programming-Concepts
+[submodule "projects/guess_number"]
+	path = projects/guess_number
+	url = https://github.com/abalone0204/Guess-number
